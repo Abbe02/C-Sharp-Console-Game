@@ -1,0 +1,15 @@
+C:\Users\laza4\source\repos\ProgSlutuppgift\ProgSlutuppgift\bin\Debug\net6.0\ProgSlutuppgift.exe
+C:\Users\laza4\source\repos\ProgSlutuppgift\ProgSlutuppgift\bin\Debug\net6.0\ProgSlutuppgift.deps.json
+C:\Users\laza4\source\repos\ProgSlutuppgift\ProgSlutuppgift\bin\Debug\net6.0\ProgSlutuppgift.runtimeconfig.json
+C:\Users\laza4\source\repos\ProgSlutuppgift\ProgSlutuppgift\bin\Debug\net6.0\ProgSlutuppgift.dll
+C:\Users\laza4\source\repos\ProgSlutuppgift\ProgSlutuppgift\bin\Debug\net6.0\ProgSlutuppgift.pdb
+C:\Users\laza4\source\repos\ProgSlutuppgift\ProgSlutuppgift\obj\Debug\net6.0\ProgSlutuppgift.csproj.AssemblyReference.cache
+C:\Users\laza4\source\repos\ProgSlutuppgift\ProgSlutuppgift\obj\Debug\net6.0\ProgSlutuppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laza4\source\repos\ProgSlutuppgift\ProgSlutuppgift\obj\Debug\net6.0\ProgSlutuppgift.AssemblyInfoInputs.cache
+C:\Users\laza4\source\repos\ProgSlutuppgift\ProgSlutuppgift\obj\Debug\net6.0\ProgSlutuppgift.AssemblyInfo.cs
+C:\Users\laza4\source\repos\ProgSlutuppgift\ProgSlutuppgift\obj\Debug\net6.0\ProgSlutuppgift.csproj.CoreCompileInputs.cache
+C:\Users\laza4\source\repos\ProgSlutuppgift\ProgSlutuppgift\obj\Debug\net6.0\ProgSlutuppgift.dll
+C:\Users\laza4\source\repos\ProgSlutuppgift\ProgSlutuppgift\obj\Debug\net6.0\refint\ProgSlutuppgift.dll
+C:\Users\laza4\source\repos\ProgSlutuppgift\ProgSlutuppgift\obj\Debug\net6.0\ProgSlutuppgift.pdb
+C:\Users\laza4\source\repos\ProgSlutuppgift\ProgSlutuppgift\obj\Debug\net6.0\ProgSlutuppgift.genruntimeconfig.cache
+C:\Users\laza4\source\repos\ProgSlutuppgift\ProgSlutuppgift\obj\Debug\net6.0\ref\ProgSlutuppgift.dll
